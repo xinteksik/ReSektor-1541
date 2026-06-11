@@ -1,18 +1,47 @@
+ReSektor 1541 License
+
+Copyright (c) 2026 Tomas Kaluzik
+
+This repository contains both creative content and, potentially, software or
+helper scripts. Unless stated otherwise in a specific file or directory, the
+following licensing terms apply.
+
+Creative content license
+
+Texts, articles, layouts, graphics, images, PDF files, source documents,
+published issues, and other editorial or visual materials of the ReSektor 1541
+project are licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+You are free to share and adapt this content, including for commercial
+purposes, provided that you give appropriate credit, indicate if changes were
+made, and distribute your contributions under the same license.
+
+The full license text is available at:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Software license
+
+Any software, scripts, source code, tools, or other program files included in
+this repository are licensed under the MIT License, unless stated otherwise in
+a specific file or directory.
+
 MIT License
 
-Copyright (c) 2026 Tomas
+Copyright (c) 2026 Tomas Kaluzik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of the software and associated documentation files included in this repository
+(the “Software”), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following
+conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
